@@ -15,6 +15,7 @@ public class App
     public static void main( String[] args )
     {
     	int x = 1;
+    	int y = 2;
         SpringApplication.run(App.class, args);
     }
 }
